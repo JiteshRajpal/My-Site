@@ -1,0 +1,82 @@
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1
+{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+.skill-row
+{
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  width:50%;
+}
+.subtitle
+{
+  font-weight: normal;
+}
+.computer
+{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pizza
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+h3
+{
+  color: #11999E;
+}
+a
+{
+  color: #11999E;
+}
+.underline
+{
+  text-decoration: underline;
+}
+
+.top
+{
+  background-color:#bbded6;
+  position: relative;
+  padding-top:100px;
+}
+.top-cloud
+{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.my-image
+{
+  margin: 20px;
+  height: 200px;
+  width: 200px;
+}
